@@ -1,8 +1,8 @@
 {
-  "name": "Your-Pet-Team-Project",
+  "name": "yourpet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://OleksandrVaniuta.github.io/Your-Pet-Team-Project/",
+  "homepage": "https://Olga-Dames.github.io/yourpet/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
